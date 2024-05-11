@@ -15,4 +15,6 @@ Start the server
 
 ## Error 'react-scripts' is not recognized as an internal or external command
 
-npm install react-scripts --save
+remove node_modules
+
+<pre>npm install<pre>
