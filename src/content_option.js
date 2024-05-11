@@ -119,7 +119,7 @@ const services = [{
 
 const dataportfolio = [{
         img: require("./assets/greyscale/ASCEND.png"),
-        description: "Advanced Slew Control (with) Event-based Neuromorphic Detection (ASCEND) Cube Satellite",
+        description: "Advanced Slew Control with Event-based Neuromorphic Detection (ASCEND) Cube Satellite",
         link: "#",
     },
     {
@@ -145,6 +145,16 @@ const dataportfolio = [{
     {
         img: require("./assets/greyscale/STADR.png"),
         description: "Star Tracking and Debris Recognition (STADR) Cube Satellite",
+        link: "#",
+    },
+    {
+        img: require("./assets/greyscale/CONNECTINGPULSE.png"),
+        description: "Yale 501(c)(3) non-profit website, Connecting Pulse ",
+        link: "#",
+    },
+    {
+        img: require("./assets/greyscale/DRUGDROP.png"),
+        description: "NFC Enabled Automatic Prescription Dispenser Application ",
         link: "#",
     },
 ];
