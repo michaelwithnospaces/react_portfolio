@@ -13,3 +13,6 @@ Start the server
 
 <pre>yarn start</pre>
 
+## Error 'react-scripts' is not recognized as an internal or external command
+
+npm install react-scripts --save
