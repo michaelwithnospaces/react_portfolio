@@ -4,6 +4,11 @@
     padding-right: 10px;
 }
 
+.header-logo {
+    max-width: 50px; /* Adjust this size as needed */
+    max-height: 50px;
+  }
+
 .menu__button {
     color: var(--text-color);
 }
