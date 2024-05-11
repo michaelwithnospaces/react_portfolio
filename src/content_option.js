@@ -11,12 +11,12 @@ const introdata = {
         second: "Space inspires my curiosity.",
         third: "AI drives my creativity.",
     },
-    description: "Computer science student at Texas A&M with interest in Space Systems Engineering, Software Development, and AI",
+    description: "Computer science student at Texas A&M with interest in Space Systems Engineering, Software Development, and AI.",
     your_img_url: require("./assets/images/background.png"),
 };
 
 const dataabout = {
-    title: "A Bit About Myself",
+    title: "Who I Am",
     aboutme: "I'm Michael Nguyen, a computer science student at Texas A&M University, specializing in space systems engineering, software development, and AI. With experience in CubeSat missions, space software development, and data science projects, I've honed my skills in Python, C++, F’ Flight Software, and machine learning frameworks. At Space Dynamics Laboratory and the University Nanosatellite Program, I've contributed to cutting-edge aerospace projects while currently enhancing the SynthMining platform and developing advanced networking with Proxmox VE. In my free time, I love riding my Honda CBR300 motorcycle, organizing and attending rides, and casually gaming. I'm working towards a career that merges software engineering with innovative space systems.",
 };
 const worktimeline = [
@@ -118,32 +118,32 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: require("./assets/images/ASCEND Mission Patch.jpg"),
+        img: require("./assets/greyscale/ASCEND.png"),
         description: "Advanced Slew Control (with) Event-based Neuromorphic Detection (ASCEND) Cube Satellite",
         link: "#",
     },
     {
-        img: require("./assets/images/DollarSim Logo.jpeg"),
+        img: require("./assets/greyscale/DOLLARSIM.png"),
         description: "Cross-platform Family Finance Application",
         link: "#",
     },
     {
-        img: require("./assets/images/Virtualized Home Lab.png"),
+        img: require("./assets/greyscale/HOMELAB.png"),
         description: "Virtualized Dedicated Home and Media Server",
         link: "#",
     },
     {
-        img: require("./assets/images/MNIST.png"),
+        img: require("./assets/greyscale/MNIST.png"),
         description: "MNIST 1-Layer Neural Network",
         link: "#",
     },
     {
-        img: require("./assets/images/AGS6.PNG"),
+        img: require("./assets/greyscale/AGS6.png"),
         description: "Space-based Radiofrequency Array Device and Dosimeter Cube Satellite",
         link: "#",
     },
     {
-        img: require("./assets/images/STADR Mission Patch.png"),
+        img: require("./assets/greyscale/STADR.png"),
         description: "Star Tracking and Debris Recognition (STADR) Cube Satellite",
         link: "#",
     },
