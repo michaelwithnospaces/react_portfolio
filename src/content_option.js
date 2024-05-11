@@ -1,15 +1,15 @@
-const logotext = "MICHAEL MINH NGUYEN";
+const logotext = "MINHOVATE";
 const meta = {
     title: "Minhovate",
     description: "I’m Michael Nguyen, Computer Science Major at Texas A&M",
 };
 
 const introdata = {
-    title: "I’m Michael Nguyen",
+    title: "Michael Minh Nguyen",
     animated: {
-        first: "Coding fuels my passion.",
-        second: "Space inspires my curiosity.",
-        third: "AI drives my creativity.",
+        first: "Space focused, code driven.",
+        second: "New frontiers with software.",
+        third: "AI/ML enhanced discovery.",
     },
     description: "Computer science student at Texas A&M with interest in Space Systems Engineering, Software Development, and AI.",
     your_img_url: require("./assets/images/background.png"),
@@ -152,7 +152,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "michaelmn@tamu.edu",
     YOUR_PHONE: "(682) 331-2966",
-    description: "🛰️ For urgent matters, collaboration opportunities or space-related queries, hold tight - our communication satellites will align shortly.", 
+    description: "For urgent matters, collaboration opportunities or space-related queries, hold tight - our communication satellites will align shortly.", 
     // https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_d3qd3n4",
     YOUR_TEMPLATE_ID: "template_bqwr41b",
