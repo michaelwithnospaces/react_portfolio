@@ -93,6 +93,10 @@ const skills = [{
         name: "SQL",
         value: 40,
     },
+    {
+        name: "Verilog",
+        value: 40,
+    },
 ];
 
 const services = [{
@@ -106,6 +110,10 @@ const services = [{
     {
         title: "Operating Systems",
         description: "Windows (XP, 7, 10, 11), Mac OS 9, Linux (Ubuntu, Debian, Arch, Proxmox, Alpine)",
+    },
+    {
+        title: "Hardware Design Language",
+        description: "Computer Architecture, Digital Circuit Design",
     },
     {
         title: "Networking",
