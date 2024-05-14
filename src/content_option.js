@@ -90,8 +90,8 @@ const skills = [{
         value: 75,
     },
     {
-        name: "SQL",
-        value: 40,
+        name: "PostgreSQL",
+        value: 60,
     },
     {
         name: "Verilog",
@@ -101,7 +101,7 @@ const skills = [{
 
 const services = [{
         title: "Backend Development",
-        description: "Flight Software",
+        description: "Flight Software, Docker, Node.js, Express.js",
     },
     {
         title: "Artificial Intelligence/Machine Learning",
@@ -118,10 +118,6 @@ const services = [{
     {
         title: "Networking",
         description: "Packetized communications protocols (IP/UDP, IP/TCP), Virtual Enviroments, Virtual Machines",
-    },
-    {
-        title: "Other",
-        description: "Git, Nodejs",
     },
 ];
 

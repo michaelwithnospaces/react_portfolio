@@ -19,7 +19,7 @@ const Headermain = () => {
       <header className="fixed-top site__header">
         <div className="d-flex align-items-center justify-content-between">
           <Link  className="navbar-brand nav_ac" to="/">
-            <img src={logo} alt="Logo" className="header-logo me-0" /> {/* Adjust `me-2` (Bootstrap margin-end class) */}
+            <img src={logo} alt="Logo" className="header-logo me-0" /> {/* Adjust `me-{number}]` (margin-end class) */}
             {logotext}
           </Link>
           <div className="d-flex align-items-center">
