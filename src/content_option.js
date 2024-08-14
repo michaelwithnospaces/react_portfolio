@@ -17,9 +17,14 @@ const introdata = {
 
 const dataabout = {
     title: "Who I Am",
-    aboutme: "I'm Michael Nguyen, a computer science student at Texas A&M University, specializing in space systems engineering, software development, and AI. With experience in CubeSat missions, space software development, and data science projects, I've honed my skills in Python, C++, F’ Flight Software, and machine learning frameworks. At Space Dynamics Laboratory and the University Nanosatellite Program, I've contributed to cutting-edge aerospace projects while currently enhancing the SynthMining platform and developing advanced networking with Proxmox VE. In my free time, I love riding my Honda CBR300 motorcycle, organizing and attending rides, and casually gaming. I'm working towards a career that merges software engineering with innovative space systems.",
+    aboutme: "I'm Michael Nguyen, a computer science student at Texas A&M University, specializing in space systems engineering, software development, and AI. With experience in CubeSat missions, space software development, and data science projects, I've honed my skills in Python, C++, F’ Flight Software, and machine learning frameworks. At Space Dynamics Laboratory and the University Nanosatellite Program, I've contributed to cutting-edge aerospace projects while recently implementing a Transformer Autoencoder at EWA and developing advanced networking with Proxmox VE. In my free time, I love riding my Honda CBR300 motorcycle, organizing and attending rides, and casually gaming. I'm working towards a career that merges software engineering with innovative space systems.",
 };
 const worktimeline = [
+    {
+	jobtitle: "Electronic Warfare Associates",
+	where: "AI/ML Engineer",
+	date: "2024",
+    },
     {
         jobtitle: "Space Dynamics Laboratory",
         where: "System Engineer",
@@ -95,17 +100,17 @@ const skills = [{
     },
     {
         name: "Verilog",
-        value: 40,
+        value: 20,
     },
 ];
 
 const services = [{
         title: "Backend Development",
-        description: "Flight Software, Docker, Node.js, Express.js",
+        description: "Flight Software, Google Cloud services, Jupyter, Docker, Node.js, Express.js",
     },
     {
         title: "Artificial Intelligence/Machine Learning",
-        description: "Generative Adversarial Networks, Natural Language Processing, PyTorch, Numpy, Matplotlib",
+        description: "Transformers, Autoencoders, Generative Adversarial Networks, Natural Language Processing, PyTorch, Keras Functional API, Numpy, Matplotlib",
     },
     {
         title: "Operating Systems",
